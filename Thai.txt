@@ -208,83 +208,83 @@
     PartsExpansion_Build=your creations to life!
 
 # Skins Expansion
-    SkinsExpansion_Tanks=Paint your parts in a diverse variety of skins!
-    SkinsExpansion_Interstages=Color everything from interstages
-    SkinsExpansion_Nosecones=To nosecones
-    SkinsExpansion_Fairings=And even fairings
+    SkinsExpansion_Tanks=ระบายสีชิ้นส่วนของคุณในสกินที่หลากหลาย!
+    SkinsExpansion_Interstages=ระบายสีทุกสิ่งทุกอย่าง
+    SkinsExpansion_Nosecones=ตั้งแต่ Nosecones
+    SkinsExpansion_Fairings=ไปจนถึง Fairing
 
 # Planets Expansion
-    PlanetsExpansion_Jupiter=Explore Jupiter and its four moons!
-    PlanetsExpansion_Callisto=From the heavily cratered surface of Callisto!
-    PlanetsExpansion_Europa=To the vast ice flats of Europa!
+    PlanetsExpansion_Jupiter=สำรวจดาวพฤหัสบดีและดวงจันทร์ทั้งสี่!
+    PlanetsExpansion_Callisto=จากพื้นผิวที่เป็นหลุมอุกกาบาตอย่างหนักของ Callisto!
+    PlanetsExpansion_Europa=สู่ที่ราบน้ำแข็งอันกว้างใหญ่ของ Europa!
 
-    PlanetsExpansion_Conclusion=Distant worlds are waiting for you
-    PlanetsExpansion_Conclusion=to explore them!
+    PlanetsExpansion_Conclusion=โลกที่ห่างไกลกำลังรอคุณอยู่
+    PlanetsExpansion_Conclusion=เพื่อสำรวจพวกเขา!
 
 [Settings Mobile]
-    Music_Name=Music
-    Sound_Name=Sound
-    Screen_Rotation_Name=Screen Rotation
+    Music_Name=เพลง
+    Sound_Name=เสียง
+    Screen_Rotation_Name=การหมุนจอ
     FPS_Name=Fps
-    Language_Name=Language
-    Menu_Scale=Interface Scale
-    Menu_Opacity=Interface Opacity
+    Language_Name=ภาษา
+    Menu_Scale=ขนาดอินเตอร์เฟซ
+    Menu_Opacity=ความโปร่งของอินเตอร์เฟซ
 
 [Cheats]
-    Infinite_Build_Area_Name=Infinite Build Area
-    Part_Clipping_Name=Part Clipping
-    Infinite_Fuel_Name=Infinite Fuel
-    No_Atmospheric_Drag_Name=No Atmospheric Drag
-    No_Collision_Damage_Name=No Collision Damage
-    No_Gravity_Name=No Gravity
-    No_Heat_Damage_Name=No Heat Damage
-    No_Burn_Marks_Name=No Burn Marks
+    Infinite_Build_Area_Name=พื้นที่การสร้างไม่จำกัด
+    Part_Clipping_Name=การตัดชิ้นส่วน
+    Infinite_Fuel_Name=เชื้อเพลิงไม่จำกัด
+    No_Atmospheric_Drag_Name=ไม่มีการเสียดสีกับชั้นบรรยากาศ
+    No_Collision_Damage_Name=ไม่มีความเสียหายจากการชน
+    No_Gravity_Name=ไม่มีแรงโน้มถ่วง
+    No_Heat_Damage_Name=ไม่มีความเสียหายจากความร้อน
+    No_Burn_Marks_Name=ไม่มีรอยไหม้
 
 [Active Cheats]
-    Using_Infinite_Build_Area=Infinite Build Area
-    Using_Part_Clipping=Part Clipping
-    Using_Infinite_Fuel=Infinite Fuel
-    Using_No_Atmospheric_Drag=No Atmospheric Drag
-    Using_No_Collision_Damage=No Collision Damage
-    Using_No_Gravity=No Gravity
-    Using_No_Heat_Damage=No Heat Damage
-    Using_No_Burn_Marks=No Burn Marks
+    Using_Infinite_Build_Area=พื้นที่การสร้างไม่จำกัด
+    Using_Part_Clipping=การตัดชิ้นส่วน
+    Using_Infinite_Fuel=เชื้อเพลิงไม่จำกัดl
+    Using_No_Atmospheric_Drag=ไม่มีการเสียดสีกับชั้นบรรยากาศ
+    Using_No_Collision_Damage=ไม่มีความเสียหายจากการชน
+    Using_No_Gravity=ไม่มีแรงโน้มถ่วง
+    Using_No_Heat_Damage=ไม่มีความเสียหายจากความร้อน
+    Using_No_Burn_Marks=ไม่มีรอยไหม้
 
 [Build]
-    Build_New_Rocket=Build New Rocket
-    New=New
-    Expand_Last_Rocket=Continue Build
+    Build_New_Rocket=สร้างจรวดใหม่
+    New=ใหม่
+    Expand_Last_Rocket=สร้างต่อ
 
-    Symmetry_On=Symmetry: On
-    Symmetry_Off=Symmetry: Off
+    Symmetry_On=การสมมาตร: เปิด
+    Symmetry_Off=การสมมาตร: ปิด
 
-    Interior_View_On=Interior View: On
-    Interior_View_Off=Interior View: Off
+    Interior_View_On=มุมมองภายใน: เปิด
+    Interior_View_Off=มุมมองภายใน: ปิด
 
-    Launch_Button=Launch
-    Move_Rocket_Button=Move Rocket
+    Launch_Button=ปล่อย
+    Move_Rocket_Button=เคลื่อนจรวด
 
 # Clear build area
-    Clear_Warning=Clear build area?
-    Clear_Confirm=Clear
+    Clear_Warning=เคลียร์พื้นที่สร้าง?
+    Clear_Confirm=เคลียร์
 
 # Launch warnings
-    Warnings_Title=WARNING:
-    Missing_Capsule=Your rocket has no capsule, making it uncontrollable
-    Missing_Parachute=Your rocket has no parachute
-    Missing_Heat_Shield=Your rocket has no heat shield
-    Too_Heavy=Your rocket is too heavy to lift off, reduce weight or use a more powerful engine
-    Launch_Anyway_Button=Launch Anyway
+    Warnings_Title=คำเตือน:
+    Missing_Capsule=จรวดของคุณไม่มีแคปซูล ทำให้ควบคุมไม่ได้
+    Missing_Parachute=จรวดของคุณไม่มีร่มชูชีพ
+    Missing_Heat_Shield=จรวดของคุณไม่มีแผ่นกันความร้อน
+    Too_Heavy=จรวดของคุณหนักเกินกว่าจะยกตัว กรุณาลดน้ำหนักหรือใช้เครื่องยนต์ที่ทรงพลังกว่า
+    Launch_Anyway_Button=ปล่อยทันที
 
 # Example rockets
-    Example_Rockets_OpenMenu=Example Rockets
-    Basic_Rocket=Basic Rocket
+    Example_Rockets_OpenMenu=ตัวอย่างจรวด
+    Basic_Rocket=จรวดพื้นฐาน
     Stages=Stages
     Ideal_Stages=Ideal Stages
-    Lander=Lander
+    Lander=แลนเดอร์
 
 [Map]
-    Toggle_Map_Button=Map
+    Toggle_Map_Button=แผนที่
 
 # Shown in map when you escape a gravity field of a planet
     Escape=Escape
@@ -299,101 +299,101 @@
     Transfer=Transfer Window
 
 [Game]
-    Throttle_On=On
-    Throttle_Off=Off
-    Ignition=IGNITION
+    Throttle_On=เปิด
+    Throttle_Off=ปิด
+    Ignition=การจุด
     RCS=RCS
 
 # Game supports screen rotation, we split into 2 lines in vertical mode
-    Height_Terrain_Vertical=Height (Terrain):
+    Height_Terrain_Vertical=ความสูง (พื้นดิน):
     Height_Terrain_Vertical=
     Height_Terrain_Vertical=%height%
 
-    Height_Vertical=Height:
+    Height_Vertical=สูง:
     Height_Vertical=
     Height_Vertical=%height%
 
-    Velocity_Vertical=Velocity:
+    Velocity_Vertical=ความเร็ว:
     Velocity_Vertical=
     Velocity_Vertical=%speed%
 
 # Angle indicates the best angle/direction the player can rotate their rocket towards
-    Angle_Vertical=Angle:
+    Angle_Vertical=มุม:
     Angle_Vertical=
     Angle_Vertical=%angle% / %targetAngle%
 
-    Height_Terrain_Horizontal=Height (Terrain): %height%
-    Height_Horizontal=Height: %height%
-    Velocity_Horizontal=Velocity: %speed%
+    Height_Terrain_Horizontal=ความสูง (พื้นดิน): %height%
+    Height_Horizontal=ความสูง: %height%
+    Velocity_Horizontal=ความเร็ว: %speed%
 
 # Angle indicates the best angle/direction the player can rotate their rocket towards
-    Angle_Horizontal=Angle: %angle% / %targetAngle%
+    Angle_Horizontal=มุม: %angle% / %targetAngle%
 
 [Game menus]
-    Restart_Mission=Restart Mission
-    Recover_Rocket=Recover
-    Destroy_Rocket=Destroy
+    Restart_Mission=เริ่มภารกิจใหม่
+    Recover_Rocket=กู้คืน
+    Destroy_Rocket=ทำลาย
 
 # Restart menu
-    Restart_Mission_To_Launch=Revert To Launch
+    Restart_Mission_To_Launch=ย้อนกลับไปที่การปล่อย
 
-    Restart_Mission_To_Launch_Warning=Revert to launch?
+    Restart_Mission_To_Launch_Warning=จะย้อนกลับไปที่การปล่อยใช่หรอไม่?
     Restart_Mission_To_Launch_Warning=
-    Restart_Mission_To_Launch_Warning=WARNING:
-    Restart_Mission_To_Launch_Warning=This will revert all progress since last launch
+    Restart_Mission_To_Launch_Warning=คำเตือน:
+    Restart_Mission_To_Launch_Warning=กระบวนการนี้จะย้อนไปที่การปล่อยครั้งล่าสุด
 
-    Restart_Mission_To_Build=Revert To Build
+    Restart_Mission_To_Build=ย้อนไปที่การสร้าง
 
-    Restart_Mission_To_Build_Warning=Revert to build?
+    Restart_Mission_To_Build_Warning=จะย้อนไปที่การสร้างใช่หรือไม่?
     Restart_Mission_To_Build_Warning=
-    Restart_Mission_To_Build_Warning=WARNING:
-    Restart_Mission_To_Build_Warning=This will revert all progress since last launch
+    Restart_Mission_To_Build_Warning=คำเตือน:
+    Restart_Mission_To_Build_Warning=กระบวนการนี้จะย้อนไปที่การปล่อยครั้งล่าสุด
 
 # End mission menu
-    End_Mission_Menu_Title=Mission Achievements:
-    End_Mission=End Mission
+    End_Mission_Menu_Title=ความสำเร็จของภารกิจ:
+    End_Mission=จบภารกิจ
 
 # Clear space junk/debris
-    Clear_Debris_Warning=Clear debris?
+    Clear_Debris_Warning=เคลียร์เศษซาก?
     Clear_Debris_Warning=
-    Clear_Debris_Warning=This will remove all uncontrollable rockets
+    Clear_Debris_Warning=นี่จะลบชิ้นส่วนที่ไม่สามารถควบคุมได้ทั้งหมด
 
-    Clear_Debris_Confirm=Clear Debris
+    Clear_Debris_Confirm=เคลียร์
 
 # Select menu
-    Navigate_To=Navigate To
-    End_Navigation=End Navigation
-    Focus=Focus
-    Unfocus=Unfocus
-    Switch_To=Switch To
+    Navigate_To=นำทางไปยัง
+    End_Navigation=จบการนำทาง
+    Focus=โฟกัส
+    Unfocus=เลิกโฟกัส
+    Switch_To=เปลี่ยนไปที่
 
 [Rocket]
-    Default_Rocket_Name=Rocket
+    Default_Rocket_Name=จรวด
 
 # Informs the player that he cannot perform an action due to rocket having no control
-    No_Control_Msg=No control
+    No_Control_Msg=ไม่มีการควบคุม
 
 [Timewarp]
-    Msg_Timewarp_Speed=Time acceleration %speed%x
+    Msg_Timewarp_Speed=การเร่งเวลา %speed%x
 
-    Msg_Timewarp_Speed_Physics=Time acceleration %speed%x
+    Msg_Timewarp_Speed_Physics=การเร่งเวลา %speed%x
     Msg_Timewarp_Speed_Physics=(Physics timewarp)
 
-    Msg_Timewarp_Canceled=Timewarp canceled
+    Msg_Timewarp_Canceled=ยกเลิกการวาร์ปของเวลาแล้ว
 
-    Cannot_Timewarp_Below_Basic=Cannot timewarp below %height%
-    Cannot_Timewarp_Below=Cannot timewarp faster than %speed%x while below %height%
-    Cannot_Timewarp_While_Moving_On_Surface=Cannot timewarp faster than %speed%x while moving on the surface
-    Cannot_Timewarp_While_Accelerating=Cannot timewarp faster than %speed%x while under acceleration
-    Cannot_Use_Part_While_Timewarping=Cannot use %part{1}% while timewarping
-    Cannot_Turn_While_Timewarping=Cannot turn while timewarping
+    Cannot_Timewarp_Below_Basic=ไม่สามารถทำการวาร์ปได้ในความสูงต่ำกว่า %height%
+    Cannot_Timewarp_Below=ไม่สามารถวาร์ปเร็วกว่า %speed%x ขณะที่ความสูงต่ำกว่า %height%
+    Cannot_Timewarp_While_Moving_On_Surface=ไม่สามารถวาร์ปเร็วกว่า %speed%x ขณะเคลื่อนที่บนพื้นผิว
+    Cannot_Timewarp_While_Accelerating=ไม่สามารถวาร์ปเร็วกว่า %speed%x ขณะเร่งความเร็ว
+    Cannot_Use_Part_While_Timewarping=ไม่สามารถใช้ %part{1}% ในขณะวาร์ป
+    Cannot_Turn_While_Timewarping=ไม่สามารถหมุนได้ขณะที่ทำการวาร์ป
 
 [Units]
-    Thrust_To_Weight_Ratio=Thrust / Weight: %value%
-    Mass=Mass: %value%t
+    Thrust_To_Weight_Ratio=แรงขับ / น้ำหนัก: %value%
+    Mass=น้ำหนัก: %value%t
     Thrust=Thrust: %value%t
-    Burn_Time=Burn Time: %value%s
-    Efficiency=Efficiency: %value% Isp
+    Burn_Time=เวลาการเผาไหม้: %value%s
+    Efficiency=ประสิทธิภาพ: %value% Isp
     Mass_Unit=t
     Meter_Unit=m
     Km_Unit=km
@@ -406,10 +406,10 @@
     Day_Short=%value%d
 
 [Resource Types]
-    Solid_Fuel{0}=Solid fuel
-    Solid_Fuel{1}=solid fuel
-    Liquid_Fuel{0}=Liquid fuel
-    Liquid_Fuel{1}=liquid fuel
+    Solid_Fuel{0}=เชื้อเพลิงแข็ง
+    Solid_Fuel{1}=เชื้อเพลิงแข็ง
+    Liquid_Fuel{0}=เชื้อเพลิงเหลว
+    Liquid_Fuel{1}=เชื้อเพลิงเหลว
 
 [Resource Uses]
     Resource_Bars_Title=%resource_name{0}%:
@@ -418,24 +418,24 @@
     Msg_No_Resource_Left=Out of %resource{1}%
 
 [Part Categories]
-    Basic_Parts=Basics
+    Basic_Parts=พื้นฐาน
     Six_Wide_Parts=6 Wide
     Eight_Wide_Parts=8 Wide
     Ten_Wide_Parts=10 Wide
     Twelve_Wide_Parts=12 Wide
-    Engine_Parts=Engines
-    Aerodynamics_Parts=Aerodynamics
-    Fairings_Parts=Fairings
-    Structural_Parts=Structural
-    Other_Parts=Other
+    Engine_Parts=เครื่องยนต์
+    Aerodynamics_Parts=อากาศพลศาสตร์
+    Fairings_Parts=แฟริ่ง
+    Structural_Parts=โครงสร้าง
+    Other_Parts=อื่นๆ
 
 [Part Names]
-    Capsule_Name{0}=Capsule
-    Capsule_Name{1}=capsule
+    Capsule_Name{0}=แคปซูล
+    Capsule_Name{1}=แคปซูล
     Probe_Name{0}=Probe
     Probe_Name{1}=probe
-    Parachute_Name{0}=Parachute
-    Parachute_Name{1}=parachute
+    Parachute_Name{0}=ร่มชูชีพ
+    Parachute_Name{1}=ร่มชูชีพ
 
     Kolibri_Engine_Name{0}=Kolibri Engine
     Kolibri_Engine_Name{1}=kolibri engine
