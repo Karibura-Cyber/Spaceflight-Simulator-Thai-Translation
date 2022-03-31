@@ -138,22 +138,22 @@
     New_File=ไฟล์ใหม่ %filetype{1}%
 
 # Load failure
-    Load_Failed=Could not load %filetype{1}% from %filepath%
+    Load_Failed=ไม่สามารถโหลด %filetype{1}% จาก %filepath%
 
-    Conversion_Success=Detected a 1.4 %filetype{1}% and converted it to %version% format
+    Conversion_Success=ตรวจพบ %filetype{1}% ในเวอร์ชั่น 1.4 และแปลงเป็นเวอร์ชั่น %version%
 
-    Conversion_Failed=Detected a 1.4 %filetype{1}% and converted it to %version% format
+    Conversion_Failed=ตรวจพบ %filetype{1}% ในเวอร์ชั่น 1.4 และแปลงเป็นเวอร์ชั่น %version%
     Conversion_Failed=
-    Conversion_Failed=Conversion failed:
+    Conversion_Failed=การแปลงผิดพลาด:
     Conversion_Failed=%reason%
 
 [Purchasing]
-    Open_Shop_Menu=Expansions
-    Parts_Expansion=Parts Expansion
-    Skins_Expansion=Skins Expansion
-    Planets_Expansion=Planets Expansion
-    Cheats_Expansion=Cheats
-    Infinite_Area_Expansion=Infinite Build Area
+    Open_Shop_Menu=ส่วนขยาย
+    Parts_Expansion=ส่วนขยายของชิ้นส่วน
+    Skins_Expansion=ส่วนขยายของพื้นผิว
+    Planets_Expansion=ส่วนขยายของดาวเคราะห์
+    Cheats_Expansion=การโกง
+    Infinite_Area_Expansion=พื้นที่สร้างไม่จำกัด
     Builder_Bundle=Builder Bundle
     Upgrade_To_Builder_Bundle=Upgrade To Builder Bundle
     Sandbox_Bundle=Sandbox Bundle
@@ -161,48 +161,48 @@
     Full_Bundle=Full Bundle
     Upgrade_To_Full_Bundle=Upgrade To Full Bundle
 
-    More_Parts=More Parts...
-    More_Skins=More Skins...
+    More_Parts=ชิ้นส่วนอื่นๆ...
+    More_Skins=พื้นผิวอื่นๆ...
 
-    Buy_Product=Buy %product% %price%
-    Discount_Reason_Upgrade=Discounted because you already own other expansions
+    Buy_Product=ชื่อ %product% ในราคา %price%
+    Discount_Reason_Upgrade=ลดราคาเพราะคุณมีส่วนขยายอื่นอยู่แล้ว
 
-    Purchase_Thanks_Msg=Purchased: %product%
+    Purchase_Thanks_Msg=ซื้อ: %product%
     Purchase_Thanks_Msg=
-    Purchase_Thanks_Msg=Thanks for your purchase
-    Purchase_Thanks_Msg=Now go and explore the stars!
+    Purchase_Thanks_Msg=ขอบคุณสำหรับการซื้อของคุณ
+    Purchase_Thanks_Msg=ได้เวลาไปสำรวจดวงดาวแล้ว!
 
-    Owned=%product% (Owned)
+    Owned=%product% (ซื้อแล้ว)
 
-    Restore_Open=Restore
+    Restore_Open=คืนค่า
 
-    Restore_Text=Purchases on android are restored automatically on startup
+    Restore_Text=การซื้อบน Android จะได้รับการกู้คืนโดยอัตโนมัติเมื่อเริ่มต้นระบบ
     Restore_Text=
-    Restore_Text=- Check that you are logged into the google play account you bought it with (Check that purchase appears in google play purchase history)
+    Restore_Text=- ตรวจสอบว่าคุณลงชื่อเข้าใช้บัญชี Google Play ที่คุณซื้อด้วย (ตรวจสอบว่าการซื้อปรากฏในประวัติการซื้อ Google Play)
     Restore_Text=
-    Restore_Text=- Check the purchase button, if price is not shown, it means the game failed to connect to the store. Check your internet connection and restart the game
+    Restore_Text=- ตรวจสอบปุ่มซื้อ หากไม่แสดงราคา แสดงว่าเกมไม่สามารถเชื่อมต่อกับร้านค้าได้ ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณแล้วเริ่มเกมใหม่
     Restore_Text=
-    Restore_Text=If none of the above work, contact me at: games.morojna@gmail.com
+    Restore_Text=ถ้าไม่ได้ผล, ติดต่อมาได้ที่: games.morojna@gmail.com
     Restore_Text=
-    Restore_Text=You can also try waiting, the purchase sometimes restores itself after a few hours
+    Restore_Text=รอสักครู่ การซื้ออาจกลับมาอีกครั้งหลังจากผ่านไปสองสามชั่วโมง
 
     Purchase_FAQ_Open=FAQ
 
-    Purchase_FAQ_Text=<color=grey>Are purchases retained between updates?</color>
-    Purchase_FAQ_Text=Yes, of course
+    Purchase_FAQ_Text=<color=grey>การซื้อจะถูกเก็บไว้ระหว่างการอัปเดตหรือไม่?</color>
+    Purchase_FAQ_Text=ใช่, แน่นอน!
     Purchase_FAQ_Text=
     Purchase_FAQ_Text=
-    Purchase_FAQ_Text=<color=grey>Is it possible to lose purchases?</color>
-    Purchase_FAQ_Text=Your purchases are permanently stored on your store account, and are not lost if you reinstall or change phones
+    Purchase_FAQ_Text=<color=grey>เป็นไปได้ไหมที่จะสูญเสียการซื้อ?</color>
+    Purchase_FAQ_Text=ตรวจสอบว่าคุณลงชื่อเข้าใช้บัญชี Google Play ที่คุณซื้อด้วย (ตรวจสอบว่าการซื้อปรากฏในประวัติการซื้อใน Google Play)
     Purchase_FAQ_Text=
     Purchase_FAQ_Text=
-    Purchase_FAQ_Text=<color=grey>Do you offer refunds?</color>
-    Purchase_FAQ_Text=Yes, absolutely, as long as it's requested in a reasonable timeframe, we will refund, no questions asked
+    Purchase_FAQ_Text=<color=grey>คุณสามารถคืนเงินได้หรือไม่</color>
+    Purchase_FAQ_Text=ได้แน่นอน!, ตราบใดที่มีการร้องขอในเวลาที่สมควร พวกเราจะคืนเงินให้ทันทีแบบไม่มีข้อแม้
 
 # Parts Expansion
-    PartsExpansion_Tanks=Large variety of fuel tanks!
-    PartsExpansion_Engines=Heavy lift engines!
-    PartsExpansion_Parts=Parts of all shapes and sizes!
+    PartsExpansion_Tanks=ถังน้ำมันหลากหลายขนาด!
+    PartsExpansion_Engines=เครื่องยนต์ความดันสูง!
+    PartsExpansion_Parts=ชิ้นส่วนของรูปทรงและขนาดทั้งหมด!
 
     PartsExpansion_Build=Large build space to bring
     PartsExpansion_Build=your creations to life!
